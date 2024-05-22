@@ -42,4 +42,8 @@ https://www.google.com/search?q=tensorflow+gpu+install&oq=tensorflow+gpu+&gs_lcr
 https://www.google.com/search?q=tensorflow+gpu+install&oq=tensorflow+gpu+&gs_lcrp=EgZjaHJvbWUqBwgBEAAYgAQyDAgAEEUYORiABBiiBDIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIKCAkQABiABBiiBNIBCDM4MDhqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8#fpstate=ive&vld=cid:1f47edd1,vid:EmZZsy7Ym-4,st:0](https://www.youtube.com/watch?v=CkpTEJH6xkg
 
 ```
-
+## CREDIT
+```
+https://www.youtube.com/watch?v=XHT2c8jT3Bc&t=194s
+https://github.com/SkalskiP/yolov9
+```
