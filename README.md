@@ -17,12 +17,13 @@ In this project, we labeled our dataset using Roboflow and integrated the code s
 Training: The model learns on the data set. It takes input data, predicts the target, and calculates an error by comparing it with the actual target. The error is used to update the internal parameters of the model.
 Validation: Used to measure the generalization ability of the model. It contains data that is different from the training data but has similar characteristics. Validation error is monitored and training can be stopped.
 Testing: Used to evaluate the real-world performance of the model. It contains data that the model has not seen before. Used to determine real-world performance.
+
+```
 <H1 align="center">
 ![Ekran görüntüsü 2024-05-22 210632](https://github.com/kemaltekbas/YOLOv9-Object-Detection-with-Custom-Dataset-from-Scratch/assets/127952905/e3bf0997-a1ad-409f-a877-c1200637e6c4)
 <H1 align="center">
 ![örnek](https://github.com/kemaltekbas/YOLOv9-Object-Detection-with-Custom-Dataset-from-Scratch/assets/127952905/9293080e-879f-42c8-a0c6-7b2da69b13c3)
 
-```
 ```
 For -->hyp.scratch-high.yaml
 It represents the hyperparameter file that will be used during the training of the model.
