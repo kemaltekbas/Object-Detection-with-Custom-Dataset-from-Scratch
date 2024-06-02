@@ -45,6 +45,11 @@ https://www.google.com/search?q=tensorflow+gpu+install&oq=tensorflow+gpu+&gs_lcr
 ```
 ![output](https://github.com/kemaltekbas/YOLOv9-Object-Detection-with-Custom-Dataset-from-Scratch/assets/127952905/e9523207-7163-4618-93bf-fe8af9672eee)
 
+
+https://github.com/kemaltekbas/YOLOv9-Object-Detection-with-Custom-Dataset-from-Scratch/assets/127952905/1068c28b-2faa-498d-82c1-09abbe0cf6d9
+
+
+
 ## CREDIT
 ```
 https://www.youtube.com/watch?v=XHT2c8jT3Bc&t=194s
